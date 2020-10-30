@@ -24,7 +24,7 @@ import 'random-gallery-svg/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Collage props/>
   }
 }
 ```
