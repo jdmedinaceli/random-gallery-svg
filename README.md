@@ -19,7 +19,7 @@ npm install --save random-gallery-svg
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'random-gallery-svg'
+import Collage from 'random-gallery-svg'
 import 'random-gallery-svg/dist/index.css'
 
 class Example extends Component {
